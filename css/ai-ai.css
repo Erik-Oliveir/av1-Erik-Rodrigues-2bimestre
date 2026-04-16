@@ -1,0 +1,26 @@
+.título {
+  color: rgb(51, 197, 207);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(139, 129, 106);
+}
+
+footer {
+  background-color: rgb(38, 94, 199);
+  padding: 10px;
+}
+nav {
+  text-align: center;
+  background-color: black;
+}
+
+section {
+  border: 1px solid;
+}
+
+h3 {
+  color: azure;
+}
