@@ -1,26 +1,41 @@
 .título {
-  color: rgb(51, 197, 207);
+  color: rgb(255, 255, 255);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 body {
-  background-color: rgb(139, 129, 106);
+  background-color: rgb(224, 110, 3);
 }
 
 footer {
   background-color: rgb(38, 94, 199);
   padding: 10px;
+  color: beige;
+  text-align: center;
 }
+
 nav {
   text-align: center;
-  background-color: black;
+  background-color: rgb(212, 212, 212);
 }
 
 section {
-  border: 1px solid;
+  border: 3px solid;
+  margin-top: 17px;
+  margin-bottom: 17px;
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  padding-left: 10px;
 }
 
 h3 {
   color: azure;
+}
+
+header {
+  background-color: rgb(236, 224, 57);
+  padding: 17px;
 }
