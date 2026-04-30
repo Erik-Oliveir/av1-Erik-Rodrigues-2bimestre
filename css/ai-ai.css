@@ -1,13 +1,14 @@
 .título {
   color: rgb(255, 255, 255);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 body {
-  background-color: rgb(224, 110, 3);
+  background-color: rgb(136, 113, 105);
+  margin: 0%;
 }
 
 footer {
@@ -36,6 +37,29 @@ h3 {
 }
 
 header {
-  background-color: rgb(236, 224, 57);
+  background-color: rgb(0, 0, 0);
   padding: 17px;
+}
+
+.Sobre {
+  color: rgb(156, 26, 26);
+  text-align: center;
+}
+
+h4 {
+  border: 2px solid;
+  border-color: rgb(79, 202, 120);
+  border-radius: 20px;
+  padding-left: 20px;
+  color: azure;
+}
+
+.foof {
+  text-align: center;
+}
+
+h4 {
+  border: 2px solid;
+  border-radius: 20px;
+  border-color: rgb(79, 202, 120);
 }
